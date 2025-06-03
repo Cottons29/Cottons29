@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cottons29
 - 👀 I’m interested in Web_development and c++ development
-- 🌱 I’m currently learning HTML&Css (some javascript)...
+- 🌱 My main language is Rust Java Typescript and Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 Hehe i've learned Java too
 
