@@ -1,12 +1,10 @@
 👋 Hi, I’m @Cottons29
 
-👀 I’m interested in Web_development and Rust development
-
-🌱 My main language is Rust Java Typescript and Dart
+👀 Currently, i am an university student.
 
 💞️ I’m looking to collaborate on ... anywhere on earth 🌏
 
-📫 Hehe i've learned some UX and UI too
+📫 I can write  🦀 Oxidize
 
 <!---
 Cottons29/Cottons29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
