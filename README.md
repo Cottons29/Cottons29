@@ -4,7 +4,6 @@
 
 💞️ I’m looking to collaborate on ... anywhere on earth 🌏
 
-📫 I can write  🦀 Oxidize
 
 <!---
 Cottons29/Cottons29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
