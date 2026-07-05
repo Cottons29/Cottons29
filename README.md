@@ -2,7 +2,7 @@
 
 👀 Currently, i am an university student.
 
-💞️ I’m looking to collaborate on ... anywhere on earth 🌏
+💞️ yay i am 20 y'o now 
 
 
 <!---
