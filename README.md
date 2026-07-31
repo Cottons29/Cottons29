@@ -4,7 +4,7 @@
 
 💞️ yay i am 20 y'o now 
 
-I am working on a GUI framework [Aimer](aimers.dev)
+I am working on a GUI framework [Aimer](https://aimers.dev)
 
 <!---
 Cottons29/Cottons29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
