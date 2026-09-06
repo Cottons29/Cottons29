@@ -1,7 +1,5 @@
 👋 Hi, I’m @Cottons29
 
-👀 Currently, i am an university student.
-
 💞️ yay i am 20 y'o now 
 
 I am working on a GUI framework [Aimer](https://aimers.dev)
