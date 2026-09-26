@@ -2,6 +2,8 @@
 
 💞️ yay i am 20 y'o now 
 
+🪫 I love low-level programming.
+
 I am working on a GUI framework [Aimer](https://aimers.dev)
 
 <!---
